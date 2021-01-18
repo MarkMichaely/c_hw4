@@ -4,17 +4,6 @@
 #include "trie.h"
 
 
-/*
- * Function:  getLine
- * --------------------
- *  function represents a line
- *	function gets a string by char and saves it in string s.
- *  function returns number of chars recieved no longer than LINE
- *  s: string that gets the chars
- *
- */
-
-
  /*
   * Function:  mallocError
   * --------------------
